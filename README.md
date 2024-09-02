@@ -1,5 +1,7 @@
 # Henu Wifi Auto Login Light
 
+**NOTICE: There is a more heavy but powerful version build by dotNet Core 8.0. Can run on Windows, Linux arm64, Linux amd64. Navigation:https://github.com/kiramint/HenuWifiAutoLogin**
+
 Light version of Henu Wifi Auto Login
 
 Available on any linux devices which support command: `ip` `curl` `ping` `sh` `busybox`
